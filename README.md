@@ -1,6 +1,6 @@
-# React SVG Maps Tutorial
+# React AmAngularGauge of AmChart
 
-A basic example of a pure react SVG world map created with react, d3-geo and topojson-client.
+A basic example of AmAngularGauge created with react.
 
 ## Getting started
 
